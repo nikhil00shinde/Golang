@@ -8,3 +8,8 @@
      - Garbage collected
      - Built-in concurrency
      - Compile to standalone binaries
+
+---
+1. go run fileName.go
+2. go build fileName.go  -> ./fileName
+

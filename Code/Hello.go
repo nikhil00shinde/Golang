@@ -1,7 +1,6 @@
 package main //entry point of your code
 
-import "fmt"
-	 //allow to format string
+import "fmt" //allow to format string
 
 
 
